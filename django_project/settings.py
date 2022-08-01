@@ -30,6 +30,8 @@ INSTALLED_APPS = [
     # Local
     "accounts",
     "pages",
+    # MyApps
+    "movies",
 ]
 
 # MIDDLEWARE
